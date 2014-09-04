@@ -1,0 +1,14 @@
+TODO List:
+
+Create Customization Page:
+- Add new VC to storyboard
+- Design VC
+- ADD SQLITE to store data
+- Load data for background & colors from SQLITE
+- Possible color schemes? Customizable per friend?
+
+Design colorations for X's and O's
+
+Fix button placement
+
+Decide / implement game choosing strategy (current probably good for first version)
